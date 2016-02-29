@@ -1,3 +1,3 @@
 # 我的博客
 
-This file serves as your book's preface, a great place to describe your book's content and ideas.
+从此开启我的博客生涯！
