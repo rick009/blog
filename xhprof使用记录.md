@@ -8,6 +8,8 @@
 
 停止 xhprof 性能分析器，并返回收集的性能数据，主要包括以下数据
 
+XHPROF_FLAGS_CPU + XHPROF_FLAGS_MEMORY 模式
+
 * ct：call times，调用次数
 * wt：wall/wait time (ms)，等待时间
 * cpu：CPU时间
