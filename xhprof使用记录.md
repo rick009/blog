@@ -15,6 +15,7 @@
 
 * options
 
+    array 的可选选项，就是通过传递 'ignored_functions' 选项来忽略性能分析中的某些函数
 
 ## xhprof_disable()
 
